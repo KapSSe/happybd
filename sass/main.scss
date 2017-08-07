@@ -1,0 +1,19 @@
+body{
+   overflow: hidden;
+   font-size: 16px;
+   position: relative;
+   margin: 0 auto;
+}
+
+  svg{
+   position: absolute;
+   left:10%;
+   margin-top:0 auto;
+} 
+
+canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  cursor: pointer; 
+}
